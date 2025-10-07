@@ -1,4 +1,4 @@
-# Sales Analysis Dashboard
+#AdventureWroks Sales Analysis Dashboard
 
 This dashboard was created as part of my learning journey through a **Power BI online course on Udemy**.  
 It’s an interactive project designed to explore different Power BI features such as parameters, tooltips, and custom visuals.
